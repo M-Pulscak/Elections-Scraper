@@ -32,8 +32,4 @@ Stahuji data z URL: .......
 Data byla úspěšně uložena do souboru: Vysledky_Most.csv
 ```
 Výsledný soubor naleznete v adresáři projektu. Je možné jej dále zpracovávat v libovolném tabulkovém procesoru...  
-![Náhled Denní hodnoty a rekordy](Denní.jpg)
-![Náhled Dlouhodobé průměry](Pr§měry.jpg)
-![Náhled Trendy](Trendy.jpg)
-
-
+![Náhled dashboardu](nahled.png)
